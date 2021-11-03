@@ -1,0 +1,26 @@
+---
+title: "Final Project Proposal"
+author: "Colin Kempf"
+date: "11/3/2021"
+output: html_document
+---
+
+Team Members:
+Colin Kempf
+
+Link to Data Source:
+I got my data from IPUMS, and is a custom collection of their datasets. 
+Link to the data source (IPUMS): https://usa.ipums.org/usa/
+
+Overview:
+The data included uses samples from the last 20 years, in order to have a relevant dataset. The variables that the dataset looks at the level of education a person has attained, their income, and their occupational status, as well as their health insurance status and where they get it from. Specifically this would be able to see how far the person made it into their education, and what their income bracket is, in order to group health care status. From the health care area, it can be divided up into public or private health care, and further into see data on the number of people using medicaid services. 
+
+Plan:
+The plan with this dataset is to look into answering qeustions about medicaid, and which groups of people use its services. Specifically, I plan to answer the following questions: 
+
+1. How does a persons education level affect medicaid usage, and how does that relate to the persons financial status? 
+2. Is there any corelation between a persons occupation status and their health care status? 
+3. Why aren't people without health care getting medicaid? Is there any connection between this and a persons income level?
+4. Are people with a higher level of education, or are of a higher income bracket more likely to get private health care? Do any get medicaid?
+
+I hope that this can analyze the actual benifts of medicaid, and if it is being used to its full effect, and maybe enlighten on why it might not be. I think that this is an overall very benifital topic as it could show off why people might not be getting the help they need, and how even someone with those challenges may still not be getting resources like medicaid, for one reason or another. 
